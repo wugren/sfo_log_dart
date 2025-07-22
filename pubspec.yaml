@@ -1,7 +1,7 @@
 name: sfo_log
-description: A log .
+description: A log wrapper
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/wugren/sfo_log_dart.git
 
 environment:
   sdk: ^3.8.1
