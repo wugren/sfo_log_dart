@@ -1,0 +1,17 @@
+name: sfo_log
+description: A log .
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.8.1
+
+# Add regular dependencies here.
+dependencies:
+  logger: ^2.6.1
+  intl: any
+  stack_trace: ^1.12.1
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
